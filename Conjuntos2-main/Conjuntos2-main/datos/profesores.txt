@@ -1,0 +1,46 @@
+1234567890, Juan Pérez, Masculino, Ingeniería, Pregrado, 6, 15, 01/05/1980, Tiempo Completo-Cátedra
+2345678901, María González, Femenino, Deportes, Especialista, 4, 10, 12/08/1992, Cátedra
+3456789012, Carlos Rodríguez, Masculino, Comunicación, Maestría, 7, 18, 25/03/1975, Ocasional-Cátedra
+4567890123, Ana Martínez, Femenino, Administración, Doctorado, 5, 12, 19/11/1988, Tiempo Completo
+5678901234, Luis Sánchez, Masculino, Idiomas, Pregrado, 3, 9, 07/09/1995, Cátedra
+6789012345, Laura Torres, Femenino, Ciencias Básicas, Especialista, 8, 20, 14/06/1979, Ocasional
+7890123456, David López, Masculino, Ingeniería, Doctorado, 9, 16, 02/12/1987, Tiempo Completo
+8901234567, Andrea Pérez, Femenino, Deportes, Pregrado, 2, 7, 11/04/1991, Cátedra
+9012345678, Juanita Ramírez, Femenino, Comunicación, Maestría, 6, 15, 05/08/1983, Ocasional
+0123456789, Pedro Gómez, Masculino, Administración, Especialista, 4, 11, 29/10/1990, Tiempo Completo-Cátedra
+1230123456, Martín Soto, Masculino, Idiomas, Doctorado, 10, 20, 23/01/1981, Cátedra
+2341234567, Carolina Fernández, Femenino, Ciencias Básicas, Pregrado, 7, 13, 18/03/1997, Ocasional
+3451234567, Manuel Ramírez, Masculino, Ingeniería, Maestría, 5, 14, 06/07/1985, Tiempo Completo
+4561234567, María Rodríguez, Femenino, Deportes, Especialista, 3, 8, 30/09/1994, Cátedra
+5671234567, Jorge Pérez, Masculino, Comunicación, Doctorado, 8, 19, 17/02/1986, Ocasional-Cátedra
+6781234567, Gabriela Sánchez, Femenino, Administración, Pregrado, 1, 6, 10/12/1999, Tiempo Completo-Cátedra
+7891234567, Luis González, Masculino, Idiomas, Maestría, 6, 17, 03/05/1984, Cátedra
+8901234560, Julia Torres, Femenino, Ciencias Básicas, Doctorado, 9, 12, 08/11/1993, Ocasional
+9011234561, Felipe Martínez, Masculino, Ingeniería, Especialista, 4, 10, 21/07/1978, Tiempo Completo-Ocasional
+0121234562, Valeria López, Femenino, Deportes, Pregrado, 3, 9, 14/06/1992, Cátedra
+1231234563, Carlos Pérez, Masculino, Comunicación, Maestría, 7, 14, 19/03/1987, Ocasional
+2341234564, María Soto, Femenino, Administración, Doctorado, 5, 13, 11/01/1991, Tiempo Completo
+3451234565, Juan González, Masculino, Idiomas, Pregrado, 6, 11, 27/04/1996, Cátedra
+4561234566, Laura Martínez, Femenino, Ciencias Básicas, Especialista, 2, 7, 22/08/1990, Ocasional
+5671234567, Pedro Rodríguez, Masculino, Ingeniería, Maestría, 8, 15, 15/09/1982, Tiempo Completo-Ocasional
+6781234568, Andrea Sánchez, Femenino, Deportes, Doctorado, 10, 18, 03/12/1974, Cátedra
+7891234569, Juanita Torres, Femenino, Comunicación, Pregrado, 7, 16, 09/07/1989, Ocasional
+8901234570, Pedro Soto, Masculino, Administración, Especialista, 5, 12, 12/04/1984, Tiempo Completo-Cátedra
+9011234571, Laura González, Femenino, Idiomas, Maestría, 4, 10, 02/11/1993, Cátedra
+0121234572, Carlos López, Masculino, Ciencias Básicas, Doctorado, 9, 19, 06/05/1976, Ocasional-Cátedra
+1023523326, Isabela, Masculino, Ingeniería, Pregrado, 3, 20, 17/03/2005, Tiempo Completo
+1023523325, Venus Montoya, Masculino, Ingeniería, Pregrado, 2, 10, 26/05/2020, Ocasional-Cátedra
+12345678, sara arias, Masculino, Ingeniería, Pregrado, 2, 12, 22/09/2009, Tiempo Completo
+1033177077, paulina gonzales, Masculino, Ingeniería, Pregrado, 3, 13, 27/04/1998, Tiempo Completo
+123468007, ff fff, Masculino, Ingeniería, Pregrado, 1, 12, 12/12/1989, Tiempo Completo
+123, Hola Holis, Femenino, Deportes, Maestría, 4, 12, 01/03/2001, Tiempo Completo-Cátedra-Ocasional
+124, hola holo, Femenino, Deportes, Pregrado, 5, 5, 09/02/2004, Tiempo Completo-Cátedra
+234, bola, Masculino, Ingeniería, Pregrado, 6, 3, 08/08/2006, Tiempo Completo-Cátedra-Ocasional
+456, bolo, Masculino, Ingeniería, Pregrado, 4, 15, 07/02/2000, Tiempo Completo-Cátedra-Ocasional
+333, alambrito, Femenino, Deportes, Doctorado, 2, 5, 05/05/2020, Cátedra
+444, alambrote, Masculino, Idiomas, Especialista, 6, 13, 01/01/2003, Ocasional
+555, algo1, Femenino, Administración, Especialista, 1, 4, 06/05/2009, Tiempo Completo
+222, algo2, Masculino, Ingeniería, Doctorado, 2, 19, 02/01/2000, Tiempo Completo-Cátedra
+4444444444, algoseis uno, Masculino, Ingeniería, Especialista, 2, 6, 06/01/2005, Cátedra
+5555555555, algosiete holis, Femenino, Ingeniería, Pregrado, 3, 7, 17/03/2005, Tiempo Completo-Cátedra-Ocasional
+123456787, ujujuju uju, Masculino, Ingeniería, Pregrado, 2, 12, 12/05/1874, Tiempo Completo
